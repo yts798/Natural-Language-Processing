@@ -1,3 +1,4 @@
+It contains multiple implementation, aiming to achieve a higher performance in kaggle performance. 
 
 The dataset consists of text sequences from English language books in the genres: 
 • horror (class id 0),
