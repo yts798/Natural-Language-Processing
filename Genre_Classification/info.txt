@@ -1,0 +1,6 @@
+
+The dataset consists of text sequences from English language books in the genres: 
+• horror (class id 0),
+• science fiction (class id 1),
+• humour (class id 2), and
+• crime fiction (class id 3).
