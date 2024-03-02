@@ -1,6 +1,6 @@
 # Natural Language Processing Exploration
 
-This repository is a collection of advanced Natural Language Processing (NLP) tools focusing on syntactic and semantic analysis. It contains implementations for Probabilistic Context-Free Grammars (PCFG), Dependency Parsing, and Relation Extraction, which are fundamental components for understanding the structure and meaning of natural language text.
+This repository is a collection of advanced Natural Language Processing (NLP) tools focusing on syntactic and semantic analysis. It contains implementations for Probabilistic Context-Free Grammars (PCFG), Dependency Parsing, and Relation Extraction,  Genre Classification, Movie Review Sentiment Classification, which are fundamental components for understanding the structure and meaning of natural language text.
 
 ## Overview
 
@@ -11,3 +11,5 @@ The tools provided in this repository serve as a framework for parsing sentences
 - **Probabilistic Context-Free Grammars (PCFGs)**: An implementation of PCFGs that allows for the probabilistic modeling of natural language syntax.
 - **Dependency Parsing**: A module for analyzing the grammatical structure of sentences and representing it as a dependency tree.
 - **Relation Extraction**: Techniques to identify and extract semantic relationships from text, facilitating the understanding of the text's meaning.
+- **Genre Classification**:  Implement a classification algorithm that identifies the genre of a piece of text, from a movie review.
+- **Movie Review Sentiment Classification**: Implement a sentiment analysis with a movie review dataset, to determine the sentiment.
